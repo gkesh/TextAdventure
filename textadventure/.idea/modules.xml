@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Core Python/.idea/Core Python.iml" filepath="$PROJECT_DIR$/../Core Python/.idea/Core Python.iml" />
+      <module fileurl="file://E:/IDS/.idea/IDS.iml" filepath="E:/IDS/.idea/IDS.iml" />
+      <module fileurl="file://$USER_HOME$/MangaScrap/.idea/MangaScrap.iml" filepath="$USER_HOME$/MangaScrap/.idea/MangaScrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TextAdventure.iml" filepath="$PROJECT_DIR$/.idea/TextAdventure.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Compressed/instagram-scraper-master/instagram_scraper/.idea/instagram_scraper.iml" filepath="$USER_HOME$/Downloads/Compressed/instagram-scraper-master/instagram_scraper/.idea/instagram_scraper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../msc_project/.idea/msc_project.iml" filepath="$PROJECT_DIR$/../msc_project/.idea/msc_project.iml" />
+    </modules>
+  </component>
+</project>
